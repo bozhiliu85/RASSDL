@@ -13,7 +13,7 @@ HDR-Eye, http://infoscience.epfl.ch/record/203873
 Anyhere, http: //www.anyhere.com/gward/hdrenc/pages/originals.htm
 Stanford-HDRI, https://exhibits.stanford.edu/data/catalog/sz929jt3255
 ## Data Preprocessing
-run dataset.py under ./GenerH5Data, prepare the train data list train.txt and test data list test.txt
+run dataset.py, prepare the train data list train.txt and test data list test.txt
 ## Train 
 run main_train.py
 ## Test 
