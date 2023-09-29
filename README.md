@@ -8,9 +8,13 @@ Zhou, Fei, Guangsen Liao, Jiang Duan, Bozhi Liu, and Guoping Qiu. "Tone mapping 
 + PyTorch
 ## Data Download
 We collected HDR images from four databases:
+
 Fairchild, http://rit-mcsl.org/ fairchild//HDR.html
+
 HDR-Eye, http://infoscience.epfl.ch/record/203873
-Anyhere, http: //www.anyhere.com/gward/hdrenc/pages/originals.htm
+
+Anyhere, http: //www.anyhere.com/gward/hdrenc/pages/originals.html
+
 Stanford-HDRI, https://exhibits.stanford.edu/data/catalog/sz929jt3255
 ## Data Preprocessing
 run dataset.py, prepare the train data list train.txt and test data list test.txt
